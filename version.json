@@ -1,6 +1,6 @@
 {
-  "version": "163",
-  "url": "https://github.com/KomaruPipsik/pixie-ai/releases/download/v1-beta.3/pixie_v163.zip",
-  "sha256": "c286ef2fc1e830f6a459624a5ab83ea040b87270a507e886d30b91be8794437a",
-  "notes": "Pixie v1 beta.3: «Пикси непонятная задача» (обвести на экране), «Пикси конспект», «Пикси сочинения» (запись речи, «Пикси стоп»)."
+  "version": "164",
+  "url": "https://github.com/KomaruPipsik/pixie-ai/releases/download/v1-beta.4/pixie_v164.zip",
+  "sha256": "871951957e227fc22b35679349350fefe33729250b309a68c7497d953b001aa6",
+  "notes": "Pixie v1 beta.4: исправлена работа с картинками (вопрос голосом про картинку уходит в ИИ вместе с картинкой)."
 }
